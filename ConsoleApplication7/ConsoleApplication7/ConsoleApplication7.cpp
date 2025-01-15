@@ -6,23 +6,22 @@
 using namespace std;
 int main()
 {
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+
 	// char: kiểu dữ liệu ký tự ,có kích thước 1 byte
-	char x = 'X';                                                                                                                                                                                       
-	cout << a  << endl;
+	char x = 'X';
+	cout << a << endl;
 
 	// sizeof : size of
-	cout << "kich thuoc cua du lieu char = " << sizeof(a) << "byte" << endl;
+	cout << "kich thuoc cua du lieu char = " << sizeof(char) << "byte" << endl;
 	//string: kiểu dữ liệu chuỗi ký tự 
 	string name = " Nguyen Do Trung Anh";
-	
+
 	//số nguyên
-	
+
 	//int: integer, có kích thước 4 byte
 	int number = 100;
 	//long : có kích thước 8 byte
 	long largeNumber = 100000000
-
-
+	//bool : kiểu dữ liệu logic ( true, false)
+	
 }
-
